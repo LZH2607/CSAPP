@@ -1,0 +1,10 @@
+This directory contains code for generating a memory mountain, as
+described in Computer Systems: A Programmer's Perspective 
+
+Makefile	- memory mountain makefile
+mountain.c	- program that generates the memory mountain.
+
+fcyc.{c,h}	- Used to time functions
+clock.{c,h}
+
+mountain4x4-*.txt:	  Data generated for several representative CPUs

@@ -1,0 +1,12 @@
+This directory contains the source code for a program "sq".
+
+The program prints the squares of each value entered on the command line.
+
+Try running:
+
+    ./sq 40000
+
+and
+
+    ./sq 50000
+

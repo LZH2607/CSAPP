@@ -1,0 +1,24 @@
+This is the code that generated the various matrix multiplication 
+performance charts in Introduction to Computer Systems.
+
+Files:
+
+# Conventional matrix multiply
+mm.c		- driver for the 6 different version of mat mult + 6 matrix multiply functions
+
+# Timing routines
+clock.{c,h}	- routines for accessing timers
+fcyc.{c,h}	- routines that use the K-best scheme for estimating
+	          the number of cycles required by a function.
+
+To compile:
+	linux> make clean
+	linux> make
+
+To run:
+	linux> mm
+
+# Sample outputs
+
+*.txt: Measurements taken on a representative sample of processors.
+
